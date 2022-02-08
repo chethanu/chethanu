@@ -1,6 +1,6 @@
-# Hi there 👋 [Current Github Account -> chethanuk-plutoflume](https://github.com/chethanuk-plutoflume)
+# Hi there 👋 [Present GitAccount -> chethanuk-plutoflume](https://github.com/chethanuk-plutoflume)
 
-[chethanuk-plutoflume](https://github.com/chethanuk-plutoflume) -> ![Click link Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chethanuk-plutoflume)
+Current Github Account: [chethanuk-plutoflume](https://github.com/chethanuk-plutoflume) -> ![Click link Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chethanuk-plutoflume)
 
 Connect with me here -
 ![Linkedin Badge](https://img.shields.io/badge/-chethanuk-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)
